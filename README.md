@@ -1,86 +1,94 @@
-Logistics Operation Dashboard
+# 🚚 Logistics Operation Dashboard
 
-This project is a Power BI dashboard designed to provide a detailed and interactive view of key logistics operational metrics. It helps logistics managers monitor performance, identify bottlenecks, and analyze delay causes in real time.
+## 📦 Overview
 
-Dashboard Structure
+This **Power BI dashboard** provides a detailed view of logistics operations, including shipment performance, delays, fleet utilization, financial metrics, and weather impact. It helps logistics teams monitor real-time operations, identify bottlenecks, and support data-driven decision-making.
 
-The dashboard consists of two main pages:
+---
 
-Overview (Default View)
+## 📸 Dashboard Preview
 
-Weather Monitoring
+*(Add dashboard images here)*
 
-Overview Page
+---
 
-This page highlights the core logistics KPIs and operational insights.
+## 🔑 Key Insights
 
-KPI Cards
+### 📌 Core Logistics KPIs
 
-Total Shipments: 1,000
-Total count of all shipments managed in the system.
+* **Total Shipments:** 1,000
+* **Transaction Amount:** $2,999,055
+* **On-Time Delivery:** 43.4%
+* **Delayed Shipments:** 56.6%
+* **Average Fleet Utilization:** 80%
 
-Transaction Amount: $2,999,055
-Total financial value of all shipments.
+---
 
-On-Time Delivery: 43.4%
-Percentage of shipments delivered on schedule.
+## 📊 Logistics Performance Analysis (Overview Page)
 
-Delayed Shipments: 56.6%
-Percentage of shipments that experienced a delay.
+### 📈 Shipment Status Overview
 
-Average Fleet Utilization: 80
-Average utilization rate across the vehicle fleet.
+* Monthly trend of **Delivered**, **Delayed**, and **In Transit** shipments.
+* Helps identify patterns and high-delay periods.
 
-Key Visualizations
+### 🏙️ Top Locations by Shipment Volume
 
-Shipments Status Overview (Line Chart)
-Tracks monthly trends of Delayed, Delivered, and In-Transit shipments.
+* Bar chart showing shipment volume for top-performing cities.
 
-Top Location by Volume (Bar Chart)
-Displays the top cities based on shipment volume.
+### 🚛 Fleet Utilization
 
-Fleet Utilization (Bar Chart)
-Shows the average utilization for individual trucks (Truck_1 to Truck_10).
+* Truck-wise utilization for **Truck_1 to Truck_10**.
+* Helps identify underused or overloaded vehicles.
 
-Total Shipments by Logistics Delay Reason (Donut Chart)
-Breaks down delay reasons such as Traffic, Weather, and Mechanical Failure.
+### 🕒 Delay Reason Breakdown
 
-Weather Monitoring Page
+* Donut chart highlighting major delay causes, including:
 
-This page provides weather-related insights and their impact on logistics and inventory metrics.
+  * Traffic
+  * Weather
+  * Mechanical Failure
 
-KPI Cards
+---
 
-Average Inventory Level: 298
+## 🌦️ Weather Monitoring & Impact Analysis (Weather Page)
 
-Average Waiting Time: 35.1
+### 📌 Weather & Inventory KPIs
 
-Average Temperature: 23.9°C
+* **Average Inventory Level:** 298
+* **Average Waiting Time:** 35.1
+* **Average Temperature:** 23.9°C
+* **Average Humidity:** 65%
 
-Average Humidity: 65.0%
+### 🌡️ Temperature & Humidity Trends
 
-Key Visualizations
+* Weekly comparison of temperature and humidity.
+* Helps correlate weather conditions with shipment delays.
 
-Temperature and Humidity Monitoring (Line Chart)
-Shows weekly variations in temperature and humidity and helps correlate weather conditions with logistics performance.
+### 🏙️ Transaction Amount by City
 
-Transaction Amount by City (Bar Chart)
-Displays total transaction value for each city.
+* City-wise breakdown of transaction values.
 
-Interactivity and Filters
+---
 
-Each page includes slicers for detailed exploration and filtering:
+## 🎛️ Dashboard Interactivity
 
-Location
+### 🔍 Available Filters (Slicers)
 
-Truck ID
+* Location
+* Truck ID
+* Year
+* Month
 
-Year
+These slicers enable detailed, drill-down analysis across both pages.
 
-Month
+---
 
-These filters allow users to drill down into specific time periods, locations, or truck-level performance.
+## 🔥 Key Takeaways
 
-Summary
+* Provides end-to-end visibility into logistics operations.
+* Highlights shipment trends and delay patterns.
+* Supports efficient fleet management.
+* Connects weather patterns with logistics performance.
+* Enables real-time, data-driven decisions.
 
-This Power BI dashboard provides an end-to-end operational view of logistics performance, enabling better decision-making through real-time analytics. It connects shipment data, fleet performance, delays, weather conditions, and financial metrics into one unified reporting system.
+---
