@@ -8,7 +8,8 @@ This **Power BI dashboard** provides a detailed view of logistics operations, in
 
 ## 📸 Dashboard Preview
 
-*(Add dashboard images here)*
+<img width="1513" height="848" alt="Image" src="https://github.com/user-attachments/assets/67e3e722-f5c0-49fe-9f29-85af9fad1b9d" />
+<img width="1516" height="844" alt="Image" src="https://github.com/user-attachments/assets/0031fc16-7672-4f59-b34b-d245e32cf97a" />
 
 ---
 
@@ -33,7 +34,7 @@ This **Power BI dashboard** provides a detailed view of logistics operations, in
 
 ### 🏙️ Top Locations by Shipment Volume
 
-* Bar chart showing shipment volume for top-performing cities.
+* Chart showing shipment volume for top-performing cities.
 
 ### 🚛 Fleet Utilization
 
