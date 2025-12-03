@@ -8,7 +8,7 @@ This **Power BI dashboard** provides a detailed view of logistics operations, in
 
 ## 📸 Dashboard Preview
 
-<img width="1513" height="848" alt="Image" src="https://github.com/user-attachments/assets/67e3e722-f5c0-49fe-9f29-85af9fad1b9d" />
+<img width="1331" height="747" alt="Image" src="https://github.com/user-attachments/assets/de7b4959-393f-429b-9641-b23d6afb6c26" />
 <img width="1516" height="844" alt="Image" src="https://github.com/user-attachments/assets/0031fc16-7672-4f59-b34b-d245e32cf97a" />
 
 ---
